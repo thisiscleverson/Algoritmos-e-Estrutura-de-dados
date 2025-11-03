@@ -1,4 +1,3 @@
 # Algoritmos e Estrutura de dados 
 
-Este repositório contém todos os códigos escrito em C dos Algoritmos e Estrutura de dados que vi na sala de aula.
-
+Este repositório contém todos os códigos escritos em C dos Algoritmos e Estruturas de Dados que vi na sala de aula.
