@@ -17,8 +17,7 @@ void print_list(t_node *head);
 int main(){
 
 	int size;
-
-
+	
 	t_node *head = NULL;
 	
 	size = list_size(head);
@@ -36,7 +35,6 @@ int main(){
 	printf("End size: %d\n", size);
 
 	
-
 	print_list(head);
 	
 	return 0;
